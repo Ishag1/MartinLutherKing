@@ -1,5 +1,4 @@
-<? php
-      <!DOCTYPE HTML>
+<!DOCTYPE HTML>
 <html>
 <head>
 	<meta charset="utf-8">
@@ -140,4 +139,3 @@ And when this happens, and when we allow freedom ring, when we let it ring from 
 		document.getElementsById("myheader").innerHTML = "have a nice day!">-->
 </body>	
 </html>
-?>
