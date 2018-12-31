@@ -12,7 +12,7 @@
 		<div class="container1">
 			<div class="links">
 					<a href="home.html">Home</a>&nbsp;&nbsp;&nbsp;
-					 <a href="about.html">About MLK</a>&nbsp;&nbsp;&nbsp;
+					 <a href="About.html">About MLK</a>&nbsp;&nbsp;&nbsp;
 					 <a href="speech.html">Speech</a>&nbsp;&nbsp;&nbsp;
 					 <a href="pictures.html">Pictures</a>&nbsp;&nbsp;&nbsp;
 					<a href="contact.html">Contact</a>&nbsp;&nbsp;&nbsp;
