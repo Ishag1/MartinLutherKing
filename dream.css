@@ -1,0 +1,96 @@
+body{
+	margin: 20px;
+	padding: 15px;
+	background-color: aqua;
+}
+li{ 
+	margin-top: 
+	padding: 10px;
+	text-align: center;
+	text-align: top;
+	background-color: purple;
+	
+}
+ section {
+ 	border: double;
+ 
+
+ }
+ table,tr,th{
+ 	border: double;
+
+
+ }
+h1{ text-align: center;
+
+}
+h2{
+	text-align: color:teal;
+	background-color:#eee;
+	height: 200%;
+	width:50%;
+border:solid black;
+text-align: top;
+
+}
+h3{
+	text-transform: uppercase;color: black;
+	padding: 8px;
+	font-style: normal;
+	text-align: center;
+
+}
+h4{
+	text-align: center;
+}
+.h5,.img{ 
+	margin: 400%;
+	padding: 200%;
+	text-align: center;
+}
+.footer1{
+	border: 2px solid black;
+	text-align: center;
+	color: purple;
+}
+.footer2{
+	border: 1px solid black;
+	background-color: teal;
+	text-align: center;
+
+}
+.links{
+ width: 100%;
+ height: 30px;
+ border: 1px solid #000;
+background-color:  purple;
+text-transform: uppercase;color:lime;
+text-align: center;
+color: lime;
+padding:  25px;
+
+}
+.links2,.li{ 
+	border:none;  
+
+}
+.hh{ text-align: center;
+
+}
+.hh2{
+	text-align: center;
+	color: teal;
+	
+}
+form{
+	background-color: lime;
+    border: 1px solid blue;
+    width: 30%;
+    margin: 10px;
+    left: 0px;
+    padding: 15px;
+}
+form input{
+    width: 100%;
+    
+}
